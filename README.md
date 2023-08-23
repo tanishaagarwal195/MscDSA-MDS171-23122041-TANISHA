@@ -8,5 +8,11 @@ CLASS: MScDSA
 
 EMAIL : tanishaagarwal400@gmail.com
 
+# INDEX TABLE
+
+|Class|Question|Link|
+|-----|--------------------------------|--------------|
+|Lab01|Program to print your name|lab01.ipynb|
+
 
 
