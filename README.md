@@ -13,7 +13,7 @@ EMAIL : tanishaagarwal400@gmail.com
 |Class|Question|Link|
 |-----|--------------------------------|--------------|
 |Lab01|Program to print your name|["lab01"]("lab01.ipynb")|
-
+|Lab02|The Name Collector's Quest|["lab02"]("lab02.ipynb")|
 
 
 
