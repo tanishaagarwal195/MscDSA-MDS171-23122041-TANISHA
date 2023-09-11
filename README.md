@@ -17,6 +17,7 @@ EMAIL : tanishaagarwal400@gmail.com
 |Lab03|The Tale of Numbers' Harmony|[lab03](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/eba9cc4a947a422dfc36b1105fba70899f88c54a/lab03.ipynb)
 |Lab04|The Restaurant Management System|[lab04](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/lab04.ipynb)
 |Lab05|Mix & Match Calculator|[lab05](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/lab05.ipynb)
+|Lab06|Vowel Counter|[lab06]()
 
 
 
