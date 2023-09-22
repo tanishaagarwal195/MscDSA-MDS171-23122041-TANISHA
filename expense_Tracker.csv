@@ -1,0 +1,21 @@
+TYPE,CATEGORY,COST,DESCRIPTION,DATE
+Income,Salary from office,50000,Office ,01-09-2023
+Expense,water bill,5000,WBSCL,03-09-2023
+Income,Salary ,50000,Teaching,10-09-2023
+Expense,electricity bill,6000,WBDECL,20-09-2023
+Income,salary,60000,Office ,01-10-2023
+Expense,night out,3000,Birthday,03-10-2023
+Income,salary,60000,Salary,04-10-2023
+Expense,food,2000,Dinner,05-10-2023
+Income,salary,65000,Teaching,06-10-2023
+Income,salary,65000,Office ,07-10-2023
+Expense,college fees,70000,Christ University,08-10-2023
+Income,salary,78000,Office ,09-10-2023
+Income,salary,80000,Teaching,10-10-2023
+Expense,shopping,10000,Bought Clothes,11-10-2023
+Expense,miscellanious,4000,Essentials,12-10-2023
+Expense,laptop,90000,Dell laptop,13-10-2023
+Income,salary,90000,Office ,14-10-2023
+Expense,rent,10000,house rent,15-10-2023
+Income,salary,100000,Teaching,16-10-2023
+Expense,Grocery,6000,Easy Day,17-10-2023
