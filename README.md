@@ -19,6 +19,7 @@ EMAIL : tanishaagarwal400@gmail.com
 |Lab05|Mix & Match Calculator|[lab05](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/lab05.ipynb)
 |Lab06|Vowel Counter|[lab06](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/lab06.ipynb)
 |Lab07|My Menu Driven Restaurant|[lab07](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/lab07.ipynb)
-
+|Lab08|Matrix Multiplication|[lab08]()
+|Lab09|ExpenseTracker-Class|[lab09]()
 
 
