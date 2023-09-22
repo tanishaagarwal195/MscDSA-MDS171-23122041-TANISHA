@@ -20,6 +20,6 @@ EMAIL : tanishaagarwal400@gmail.com
 |Lab06|Vowel Counter|[lab06](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/lab06.ipynb)
 |Lab07|My Menu Driven Restaurant|[lab07](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/lab07.ipynb)
 |Lab08|Matrix Multiplication|[lab08](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/lab08.ipynb)
-|Lab09|ExpenseTracker-Class|[lab09]()
+|Lab09|ExpenseTracker-Class|[lab09](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/lab09.ipynb)
 
 
