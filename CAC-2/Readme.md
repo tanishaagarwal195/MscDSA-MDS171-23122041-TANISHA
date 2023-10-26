@@ -8,6 +8,8 @@ Problem statement-
 
 To enhance the tourist experience in Lavasa, we aim to understand the preferences and needs of visitors. Our goal is to identify key factors that influence tourist's satisfaction and their decision to visit Lavasa
 
+![LAVASA](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/CAC-2/TOURISM%20IN%20LAVASA.png)
+
 KEY ATTRIBUTES
 
 1.)Types of visitors
