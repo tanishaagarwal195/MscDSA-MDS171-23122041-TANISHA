@@ -21,6 +21,6 @@ EMAIL : tanishaagarwal400@gmail.com
 |Lab07|My Menu Driven Restaurant|[lab07](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/LABS/lab07.ipynb)
 |Lab08|Matrix Multiplication|[lab08](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/LABS/lab08.ipynb)
 |Lab09|ExpenseTracker-Class|[lab09](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/LABS/lab09.ipynb)
-|Lab10|STUDENT REPORT-Class|[lab10]()
+|Lab10|STUDENT REPORT-Class|[lab10](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/blob/main/LABS/lab10.ipynb)
 |CAC-1|E-COMMERCE SALES ANALYSIS|[CAC1](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/tree/main/CAC-1)
 |CAC-2|TOURISM AND TRAVEL IN LAVASA|[CAC2](https://github.com/tanishaagarwal195/MscDSA-MDS171-23122041-TANISHA/tree/main/CAC-2)
