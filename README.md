@@ -6,7 +6,7 @@ REG. NO. : 23122041
 
 CLASS: MScDSA
 
-EMAIL : tanishaagarwal400@gmail.com
+EMAIL : tanisha.agarwal@msds.christuniversity.in
 
 # CONTENTS
 
